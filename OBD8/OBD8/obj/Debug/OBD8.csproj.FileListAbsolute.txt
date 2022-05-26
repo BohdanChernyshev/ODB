@@ -1,0 +1,11 @@
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\OBD8.exe.config
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\OBD8.exe
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\OBD8.pdb
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\EntityFramework.dll
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\EntityFramework.xml
+D:\Новая папка\ОБД\8\OBD8\OBD8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка\ОБД\8\OBD8\OBD8\obj\Debug\OBD8.csprojAssemblyReference.cache
+D:\Новая папка\ОБД\8\OBD8\OBD8\obj\Debug\OBD8.csproj.CopyComplete
+D:\Новая папка\ОБД\8\OBD8\OBD8\obj\Debug\OBD8.exe
+D:\Новая папка\ОБД\8\OBD8\OBD8\obj\Debug\OBD8.pdb

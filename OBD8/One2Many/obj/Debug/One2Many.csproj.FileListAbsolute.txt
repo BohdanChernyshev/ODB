@@ -1,0 +1,11 @@
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\One2Many.exe.config
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\One2Many.exe
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\One2Many.pdb
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\EntityFramework.dll
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\EntityFramework.xml
+D:\Новая папка\ОБД\8\OBD8\One2Many\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка\ОБД\8\OBD8\One2Many\obj\Debug\One2Many.csprojAssemblyReference.cache
+D:\Новая папка\ОБД\8\OBD8\One2Many\obj\Debug\One2Many.csproj.CopyComplete
+D:\Новая папка\ОБД\8\OBD8\One2Many\obj\Debug\One2Many.exe
+D:\Новая папка\ОБД\8\OBD8\One2Many\obj\Debug\One2Many.pdb
