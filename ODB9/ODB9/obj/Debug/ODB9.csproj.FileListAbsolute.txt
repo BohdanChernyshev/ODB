@@ -1,0 +1,11 @@
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\ODB9.exe.config
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\ODB9.exe
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\ODB9.pdb
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\EntityFramework.dll
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\EntityFramework.xml
+D:\Новая папка\ОБД\9\ODB9\ODB9\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка\ОБД\9\ODB9\ODB9\obj\Debug\ODB9.csprojAssemblyReference.cache
+D:\Новая папка\ОБД\9\ODB9\ODB9\obj\Debug\ODB9.csproj.CopyComplete
+D:\Новая папка\ОБД\9\ODB9\ODB9\obj\Debug\ODB9.exe
+D:\Новая папка\ОБД\9\ODB9\ODB9\obj\Debug\ODB9.pdb
